@@ -1,0 +1,19 @@
+{
+  "name": "apiconsultaprazoect",
+  "version": "1.0.0",
+  "description": "API para Consulta de Prazo dos Correios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabio Moura",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "express-validator": "^6.4.1",
+    "nodemon": "^2.0.3",
+    "soap": "^0.31.0"
+  }
+}
